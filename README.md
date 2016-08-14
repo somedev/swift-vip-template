@@ -1,2 +1,2 @@
 # swift-vip-template
-Generamba templete for VIP modules
+Generamba templete for VIP (View->Interactor->Presenter) modules
