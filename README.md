@@ -1,2 +1,18 @@
 # swift-vip-template
-Generamba templete for VIP (View->Interactor->Presenter) modules
+[Generamba](https://github.com/rambler-ios/Generamba) templetes for VIP (View->Interactor->Presenter) modules
+
+### Usage
+
+1. Add to your `Rambafile`:
+  ```
+  catalogs:
+  - 'https://github.com/somedev/swift-vip-template'
+  
+  templates:
+  - {name: swift_vip}
+  ```
+2. Run `generamba template install`
+
+### License
+
+MIT
