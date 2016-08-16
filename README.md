@@ -4,7 +4,7 @@
 ### Usage
 
 1. Add to your `Rambafile`:
-  ```
+  ```yaml
   catalogs:
   - 'https://github.com/somedev/swift-vip-template'
   
